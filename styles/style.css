@@ -1,0 +1,35 @@
+body{
+    background-image: url('../styles/images/grelha.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+#Titulo{
+    color:white;
+
+}
+#resultado{
+    color: white;
+}
+
+.container{
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 300px;  
+    margin: auto;
+    background-color: black;
+    padding: 60px;
+    border-radius: 50px;
+    transform: (-50%,-50%);
+}
+
+
+input{
+    width: 100%;
+    display: block;
+    padding: 5px;
+    box-sizing: border-box;
+    background-color: rgb(252, 250, 217);
+    margin-bottom: 10px;
+}
